@@ -1,1 +1,1 @@
- Here, I tried to some codes to help to decide whether a company should focus more on its app or on its website for attracting customers. The data is fake. It was provided by the instructor during the bootcamp.
+ Here, I tried to find out  whether a company should focus more on its app or on its website for attracting customers using linear regression model.  
